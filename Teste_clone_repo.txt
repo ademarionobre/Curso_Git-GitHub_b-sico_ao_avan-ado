@@ -1,1 +1,2 @@
-Testando atualização do clone
+Testando atualização do clone.
+Arquivo atualizado na origem.
