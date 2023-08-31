@@ -1,0 +1,1 @@
+teste atualização repositorio para máquina com git pull no vs code.
