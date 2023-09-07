@@ -11,3 +11,9 @@ código-fonte final;
 ## Criando e visualizando os branches
 ● Para visualizar os branchs disponíveis basta digitar git branch
 ● Para criar um branch você precisa utilizar o comando git branch <nome>
+
+## Deletando branch
+git branch - d ou -- delete
+
+## Mudando de branch
+git checkout -b <nome>
