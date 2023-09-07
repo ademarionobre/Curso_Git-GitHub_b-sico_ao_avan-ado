@@ -1,2 +1,4 @@
 Testando atualização do clone.
 Arquivo atualizado.
+
+Teste de comando de reset.
