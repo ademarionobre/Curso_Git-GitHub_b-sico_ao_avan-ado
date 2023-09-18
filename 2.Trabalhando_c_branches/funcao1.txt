@@ -2,3 +2,8 @@ Teste funcao 1 - 'teste de mudanca dos branch'
 a
 b
 c
+<<<<<<< HEAD
+=======
+d
+e
+>>>>>>> teste2
