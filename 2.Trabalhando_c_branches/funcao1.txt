@@ -6,4 +6,8 @@ c
 =======
 d
 e
+<<<<<<< HEAD
+>>>>>>> teste2
+=======
+Nova secao
 >>>>>>> teste2
