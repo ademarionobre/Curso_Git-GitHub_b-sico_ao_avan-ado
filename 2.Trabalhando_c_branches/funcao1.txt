@@ -17,3 +17,5 @@ git stash list
 git stash show -p <numero da list>
 git drop <numero da list>
 git clear stash 'descarta tudo sem volta'
+Comando git tag.
+Marcos no projeto.
