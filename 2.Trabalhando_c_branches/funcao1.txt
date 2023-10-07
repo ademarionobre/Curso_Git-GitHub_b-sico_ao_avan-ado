@@ -11,3 +11,9 @@ e
 =======
 Nova secao
 >>>>>>> teste2
+Comando stash - codigo descartado 'lixo'. Pode ser recuperado. Pode ser listado e visto conteudo.
+git stash
+git stash list
+git stash show -p <numero da list>
+git drop <numero da list>
+git clear stash 'descarta tudo sem volta'

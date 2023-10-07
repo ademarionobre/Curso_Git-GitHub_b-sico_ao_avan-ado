@@ -2,3 +2,10 @@ Testando atualização do clone.
 Arquivo atualizado.
 
 Teste de comando de reset.
+
+<<<<<<< HEAD
+Testando comando git pull entre tres clones e branchs diferentes.
+=======
+O comando git pull serve para recebermos atualizações do repositório remoto;
+Cada branch pode ser atualizado com o git pull;
+>>>>>>> origin/funcao_git_pull_2
