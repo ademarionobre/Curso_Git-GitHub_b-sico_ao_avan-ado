@@ -1,3 +1,5 @@
+# Sobre o curso  
+
 * Utilizar o Git e GitHub de modo correto como no dia a dia de um desenvolvedor de software
 * Comandos básicos e avançados do Git
 * Gerenciar repositórios locais e também em servidores externos como no GitHub
